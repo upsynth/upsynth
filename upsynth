@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>MAJESTIC</title>
+	</head>
+	<body>
+		<!--Headings-->
+		<h1>Nikita Jacey</h1>
+		<h2>Nikita Jacey</h2>
+		<h3>Nikita Jacey</h3>
+		<h4>Nikita Jacey</h4>
+		<h5>Nikita Jacey</h5>
+		<h6>Nikita Jacey</h6>
+
+		<link rel="stylesheet" type="text/css" href="majestique.css">
+		<!--Paragraph-->
+		
+		<p>
+		<div class= part1>
+			<strong>Hello, world!</strong>
+		</div>
+		</p>
+		
+		<p>	
+		<!--Table
+				<table>
+			<thead>
+				<tr>
+					<th>Name</th>
+					<th>Age</th>
+					<th>University</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td>Nikita</td>
+					<td>17</td>
+					<td>University of Indonesia</td>
+				</tr>
+			</tbody>
+		</table>-->
+		<p>
+		<div class = container>
+			<div class="instagram">
+		
+
+			<a href="https://www.instagram.com/nikita.natania/" target="_blank"> My instagram </a>
+			
+			</div>
+		</div>
+		</p>
+			<!--List-->
+		<br>
+		<hr>
+		<br>
+			Songs chart:
+			<ol>
+				<li><strong>Summum Bonum - Sunset Rollercoaster</strong></li>
+				<li>Top Of the World - The Carpenters</li>
+				<li>Ivy - Frank Ocean</li>
+				<li>Cornerstone - Arctic Monkeys</li>
+				<li>Our First Song - Joseph Vincent</li>
+				<li>Melankolis - Sylviana</li>
+				<li>Can You Stand the Rain - Boyz II Men</li>
+				<li>Esok Kan Masih Ada - Utha Likumahuwa</li>
+				<li>Sanctuary - Joji</li>
+				<li>Juwita - Chrisye</li>
+				<li>Alone Again (Naturally) - Gilbert O'Sullivan</li>
+			</ol>
+		<br>
+		<div class="quote">
+		<blockquote>
+			"So you run and you run to catch up with the sun but it's sinking
+			The sun is the same in a relative way but you're older,
+			Shorter of breath and one day closer to death."
+			<br>
+			Time - Pink Floyd
+
+
+		</blockquote>
+		
+		</div>
+		<br>
+		<hr>
+		<br>
+
+		<!--Forms-->
+		<form action="process.Paragraph" method="GET">
+			<div>
+			<label>First Name:</label>
+			<input type="text" name="firstName">
+			</div>
+			<br>
+			<div>
+			<label>Last Name:</label>
+			<input type="text" name="lastName">
+			</div>
+			<br>
+			<div>
+			<label>Email:</label>
+			<input type="Email" name="Email">
+			</div>
+			<br>
+			<div>
+			<label>Message:</label>
+			<textarea name= "Message"></textarea>
+			</div>
+			<br>
+			<div>
+				<label>Mood:</label>
+				<select name:"Mood">
+				<option value = "happy">Happy</option>
+				<option value = "sad">Sad</option>
+				<option value = "Other">Other</option>
+				</select>
+			</div>
+			<br>
+			<div>
+			<label>Birthday:</label>
+			<input type="date" name="Birthday"></input>
+			</div>
+			<br>
+			<input type="submit" name="submit" value="submit">
+		</form>
+		<br>
+		<button>click me</button>
+
+		<blockquote>
+			"<abbr title="By The Way">Btw</abbr>, be happy!!"
+		</blockquote>
+
+		<p>Copyright &copy; 2019, Nikita </p>
+	</body>
+	<link rel="stylesheet" type="text/css" href="majestique.css">
+</html>
